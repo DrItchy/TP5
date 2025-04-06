@@ -3,7 +3,7 @@ name: Run Locust Tests on Commit
 on:
   push:
     branches: 
-      -main
+      - main
 
 jobs:
   locust-test:
